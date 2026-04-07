@@ -1,9 +1,9 @@
-# Privacy Policy for ReadWise 
+# Privacy Policy for AnchorRead (formerly Readwise) 
 
 **Last Updated:** April 7, 2026
 
 
-Thank you for choosing ReadWise. This extension was built as a student-led educational project, and our sole priority is helping people learn English—not profiting off your data. We are not a corporation, we do not run ads, and we strictly do not sell any user data to third parties. We are committed to protecting your privacy and being fully transparent. This Privacy Policy explains what limited information our extension interacts with, how it is used, and how it is protected.
+Thank you for choosing AnchorRead. This extension was built as a student-led educational project, and our sole priority is helping people learn English—not profiting off your data. We are not a corporation, we do not run ads, and we strictly do not sell any user data to third parties. We are committed to protecting your privacy and being fully transparent. This Privacy Policy explains what limited information our extension interacts with, how it is used, and how it is protected.
 
 This policy is designed to fully comply with the Google Chrome Web Store User Data Privacy policies.
 
